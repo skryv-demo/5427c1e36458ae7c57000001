@@ -1,1 +1,115 @@
-{}
+{
+    "contactgegevens": {
+        "content_provider": {
+            "algemene_contactgegevens_organisatie": {
+                "adres": {}
+            },
+            "contactpersoon_service_agreement": {},
+            "contactpersoon_administrator_viaa_mam": {},
+            "contactpersoon_metadata": {},
+            "bijkomende_contactpersonen": [],
+            "logo": {
+                "logocustomisatie_op_proxy_gewenst": {}
+            }
+        },
+        "viaa": {
+            "contactpersoon_service_agreement": {}
+        }
+    },
+    "deel_i__collectiebeschrijving": {
+        "technische_aard_van_de_collectie": {},
+        "kwantificatie": {
+            "kwantificatie_per_type": []
+        },
+        "technische_beschrijving_van_de_collectie": {
+            "formaat_van_het_data_object": []
+        },
+        "metadata": {
+            "beschrijvende_metadata": {
+                "heeft_de_cp_beschrijvende_metadata": {
+                    "op_collectieniveau": {},
+                    "op_dragerniveau": {},
+                    "op_itemniveau": {},
+                    "metadata_model": {},
+                    "metadata_formaat": {}
+                },
+                "heeft_de_cp_technische_metadata": {
+                    "op_collectieniveau": {},
+                    "op_dragerniveau": {},
+                    "op_itemniveau": {},
+                    "metadata_model": {},
+                    "metadata_formaat": {}
+                },
+                "heeft_de_cp_preservatie_metadata": {
+                    "op_collectieniveau": {},
+                    "op_dragerniveau": {},
+                    "op_itemniveau": {},
+                    "metadata_model": {},
+                    "metadata_formaat": {}
+                }
+            },
+            "mapping_viaa": {
+                "mastering_metadata_velden": {}
+            }
+        },
+        "context": {},
+        "rechten": {
+            "zijn_de_contractuele_bepalingen_omtrent_de_rechten_voldoende": {
+                "indien_neen,_geef_dan_hier_de_afwijkingen_weer": []
+            }
+        },
+        "identifiers": {
+            "local_cp_id": []
+        },
+        "preservering": {
+            "preserveringsniveau": {}
+        },
+        "thesaurus": {
+            "zijn_er_authorities_of_controlled_vocabularies_gebruikt_om_de_assets_te_annoteren": {
+                "moeten_deze_ook_beschikbaar_zijn_binnen_viaas_mam_met_betrekking_op_annotatie_in_het_mam": {}
+            }
+        }
+    },
+    "deel_ii__ingest__archiveringsproces": {
+        "goedkeuring_essence_file_digitalisering": {},
+        "transfer": {
+            "hoe_wordt_de_sip_aangeleverd": {
+                "essence": {},
+                "sp_metadata": {},
+                "cp_metadata": {}
+            }
+        },
+        "validatie": {}
+    },
+    "deel_iii__postarchivering": {
+        "reporting": {
+            "notificatie_en_reporting": {}
+        },
+        "nabewerking": {
+            "annoteren": {
+                "verantwoordelijkheid_cp_om_de_asset_te_verrijken_op_een_manier_dat_de_asset_gebruikt_kan_worden_voor_ontsluiting": {
+                    "selectedChoices": {}
+                }
+            },
+            "editeren": {
+                "mastering_essence": {}
+            }
+        },
+        "export": {
+            "inhoud_export": {
+                "selectedChoices": {},
+                "formaat": {
+                    "selectedChoices": {}
+                }
+            },
+            "manier_van_aanlevering_export": {
+                "selectedChoices": {}
+            },
+            "exit_path": {
+                "op_welke_manier_wil_u_de_aip_ontvangen": {
+                    "selectedChoices": {}
+                }
+            }
+        }
+    }
+}
