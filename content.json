@@ -2,7 +2,8 @@
     "contactgegevens": {
         "content_provider": {
             "algemene_contactgegevens_organisatie": {
-                "adres": {}
+                "adres": {},
+                "naam_instelling": "Waalse Kunstacademie"
             },
             "contactpersoon_service_agreement": {},
             "contactpersoon_administrator_viaa_mam": {},
